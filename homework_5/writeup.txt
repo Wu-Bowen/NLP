@@ -1,0 +1,20 @@
+A short write-up describing the features you tried and your score on the development corpus:
+
+Features Added:
+1. POS
+2. Previous POS
+3. Previous Word
+4. First Word
+5. Next POS
+6. Next Word
+7. Last Word
+
+Scores:
+31617 out of 32853 tags correct
+  accuracy: 96.24
+8378 groups in key
+8627 groups in response
+7680 correct groups
+  precision: 89.02
+  recall:    91.67
+  F1:        90.33
